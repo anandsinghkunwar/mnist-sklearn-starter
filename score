@@ -1,41 +1,40 @@
-Training Starts
-Training Done
+Number of Iterations = 36
 N Neurons = 100
 Score: 0.9641
-Training Starts
-Training Done
+
+Number of Iterations = 15
 N Neurons = 200
 Score: 0.9658
-Training Starts
-Training Done
+
+Number of Iterations = 17
 N Neurons = 300
 Score: 0.968
-Training Starts
-Training Done
+
+Number of Iterations = 11
 N Neurons = 400
 Score: 0.9692
-Training Starts
-Training Done
+
+Number of Iterations = 9
 N Neurons = 500
 Score: 0.969
-Training Starts
-Training Done
+
+Number of Iterations = 14
 N Neurons = 600
 Score: 0.9677
-Training Starts
-Training Done
+
+Number of Iterations = 9
 N Neurons = 700
 Score: 0.9655
-Training Starts
-Training Done
+
+Number of Iterations = 10
 N Neurons = 800
 Score: 0.9645
-Training Starts
-Training Done
+
+Number of Iterations = 9
 N Neurons = 900
 Score: 0.9683
-Training Starts
-Training Done
+
+Number of Iterations = 14
 N Neurons = 1000
 Score: 0.9645
 

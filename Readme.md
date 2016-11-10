@@ -1,4 +1,4 @@
-# CE615 Project
+# MNIST scikit-learn starter project
 ## Instructions to Run
 * You need to have scikit-learn, numpy, opencv installed
 * In order to train run `python main.py`
